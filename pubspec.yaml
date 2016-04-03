@@ -1,10 +1,11 @@
 name: liner_serializer
 version: 0.1.0
-description:
+description: Simple serializer form converting json to object
+homepage: https://github.com/linerio/dart_json_serializer
 author: Stéphane Seguin <contact@stephane-seguin.com>
 environment:
   sdk: '>=1.13.0 <2.0.0'
 dependencies:
-  reflectable: any
+  reflectable: ^0.5.4
 dev_dependencies:
-  test: any
+  test: ^0.12.13
