@@ -1,0 +1,10 @@
+name: liner_serializer
+version: 0.1.0
+description:
+author: Stéphane Seguin <contact@stephane-seguin.com>
+environment:
+  sdk: '>=1.13.0 <2.0.0'
+dependencies:
+  reflectable: any
+dev_dependencies:
+  test: any

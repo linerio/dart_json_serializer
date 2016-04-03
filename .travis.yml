@@ -1,0 +1,10 @@
+language: dart
+dart:
+  - stable
+  - dev
+
+install:
+  - pub get
+
+script:
+  - pub run test test/serializer_test.dart
